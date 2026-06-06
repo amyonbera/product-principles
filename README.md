@@ -2,7 +2,7 @@
 
 Amy is built around clear, user-facing tools that help people understand what they are doing, what they have earned and what options are available to them.
 
-The product should feel simple, calm and useful. It should avoid unnecessary complexity, buried terms and confusing flows.
+These principles guide Amy's product design, public documentation and user-facing experience. They also inform how Amy's automated systems, including [data-flows](https://github.com/amyonbera/data-flows) and [engagement-automation](https://github.com/amyonbera/engagement-automation), handle data, publishing and reporting.
 
 ## Core principles
 
@@ -22,13 +22,13 @@ The goal is not empty engagement. The goal is to make useful activity easier to 
 
 Amy should minimise unnecessary data collection and give users clearer control over how they connect, verify and participate.
 
-User accounts, wallets, socials and communication channels should be handled with care and explained clearly.
+Amy's data flows separate raw collection from curated reporting. Public outputs are distinct from internal review layers. User data is not published. For more on data boundaries, see [data-flows](https://github.com/amyonbera/data-flows).
 
 ### Guidance before action
 
 Amy should help users understand products, programmes and opportunities before they act.
 
-Education should be simple, practical and connected to the user’s next decision.
+Education should be simple, practical and connected to the user's next decision.
 
 ## User experience goals
 
@@ -51,6 +51,6 @@ Amy should be:
 - credible, not overly corporate
 - educational, not overwhelming
 
-## Status
+## Repository purpose
 
-These principles guide Amy’s product design, public documentation and user-facing experience as the platform develops.
+This repository documents the product principles behind Amy's user experience, privacy approach and product design. It does not contain private application code, credentials, internal infrastructure details or sensitive user data.
